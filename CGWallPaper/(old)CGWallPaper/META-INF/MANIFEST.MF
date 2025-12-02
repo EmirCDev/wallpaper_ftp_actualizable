@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_131-b11 (Oracle Corporation)
+Class-Path: lib/ConexionFTP/ lib/commons-net-3.6.jar lib/jna-3.2.5.jar
+  lib/jna-3.3.0-platform.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: CGWallPaper.Principal
+
