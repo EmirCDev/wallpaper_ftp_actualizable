@@ -1,7 +1,0 @@
-language: java
-jdk:
-  - java 24.0.1
-
-
-script: mvn test
- 
