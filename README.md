@@ -22,3 +22,4 @@ graph TD
     JUnit -->|Éxito| Jar[Generación JAR]
     Jar --> Client[Cliente Desktop]
     Client -->|FTP| Server[Servidor Archivos]
+
